@@ -1,0 +1,8 @@
+atoms P,O1P,O1P,O5',C5',C4',O4',C3',O3',C2',C1'
+zone A6-A9
+zone A13-A13
+zone A24-A24
+fit
+ratoms ^H*
+rzone B*
+quit
