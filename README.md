@@ -5,7 +5,7 @@ DNA - ligand docking benchmark and associated scripts
 Each folder contains:
 
 - the reference structure of the complex (`XXXX_complex_ref.pdb`)
-  When two binding sites exists, two reference files are provided (`XXXX_complex_ref_1.pdb, XXXX_ref_complex_2.pdb`)
+  When two binding sites exists, two reference files are provided (`XXXX_complex_ref_1.pdb, XXXX_complex_ref_2.pdb`)
 - the bound structure of the DNA (`XXXX_dna_bound.pdb`)
 - the unbound structure of the DNA (`XXXX_dna_unbound.pdb`)
 - the conformers of the small molecules (`XXXX_ligand_conf/`)
